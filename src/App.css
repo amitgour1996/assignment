@@ -1,0 +1,29 @@
+.App {
+}
+
+.nav-bar {
+  background-color: #000000;
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  top: 0;
+  left: 0;
+}
+
+.nav-bar li {
+  display: inline-block;
+  color: #000000;
+  background-color: rgb(200, 200, 200);
+  padding: 1rem;
+}
+
+.nav-bar li:hover {
+  cursor: pointer;
+  background-color: rgb(241, 241, 241);
+}
+
+.visible {
+  background-color: white !important;
+  cursor: not-allowed !important;
+}

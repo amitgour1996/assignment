@@ -1,0 +1,17 @@
+.Assignment2 {
+  margin-top: 4rem;
+}
+
+.Assignment2 p {
+  font-weight: bold;
+}
+
+.Assignment2 table,
+td {
+  border: 1px solid rgb(200, 200, 200);
+  border-collapse: collapse;
+}
+
+td {
+  padding: 0.5rem;
+}
